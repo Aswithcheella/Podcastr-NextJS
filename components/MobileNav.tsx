@@ -34,7 +34,7 @@ const MobileNav = () => {
           >
             <Image src="/icons/logo.svg" alt="logo" width={23} height={27} />
             <h1 className="text-24 font-extrabold  text-white-1 ml-2">
-              Podcastr
+              StoryPod
             </h1>
           </Link>
           <div className="flex h-[calc(100vh-72px)] flex-col justify-between overflow-y-auto">
